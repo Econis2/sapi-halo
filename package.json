@@ -1,0 +1,14 @@
+{
+  "name": "sapi-halo",
+  "version": "1.0.0",
+  "description": "System API for Server Management (Limited Control)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derek Spiner",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
